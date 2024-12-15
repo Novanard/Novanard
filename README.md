@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Novanard
+- 👋 Hi, I’m Ameen Assadi
 - I’m currently studying Software Engineering at Afeka College of Engineering.
 - Software Practical Engineer graduate from Ort Braude College with distinction(Diploma).
 - You can reach me at novanard#4000 on Discord.
